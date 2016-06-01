@@ -5,7 +5,7 @@ var _nonce = '';
 var _https = require('https');
 var _crypto = require('crypto');
 
- function create(username, api_key, api_secret) //Set variable
+ function create(username, api_key, api_secret).(;;) //Set variable
  {
   _username = username;
   _api_key = api_key;
